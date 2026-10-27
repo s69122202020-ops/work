@@ -725,7 +725,6 @@ footer p {
         <i class="fa-solid fa-phone"></i> ติดต่อเรา
       </button>
     </nav>
-  </div>
 </header>
 
 <main>
